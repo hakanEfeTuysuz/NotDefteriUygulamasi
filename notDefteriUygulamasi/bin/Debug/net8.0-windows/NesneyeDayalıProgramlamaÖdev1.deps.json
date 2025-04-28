@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "NesneyeDayalıProgramlamaÖdev1/1.0.0": {
+        "runtime": {
+          "NesneyeDayalıProgramlamaÖdev1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NesneyeDayalıProgramlamaÖdev1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
